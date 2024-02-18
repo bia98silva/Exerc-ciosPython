@@ -1,0 +1,21 @@
+1) Escreva um programa em Python (estrutura “main”) que contenha as seguintes funções:
+
+  a) Uma função que faça a leitura dos dados de uma lista numérica, sendo a lista e seu tamanho como parâmetros.
+
+  b) Uma função que calcule e retorne a média dos elementos ímpares da lista, sendo a lista e seu tamanho como parâmetros.
+
+  c) Uma função que faça a busca de um determinado número na lista e retorne o índice (a posição) onde ele se encontra (lista e tamanho como parâmetros). Caso o elemento não seja encontrado, a função deverá retornar -1.
+
+2) Escreva um programa em Python (estrutura “main”) que contenha as seguintes funções:
+
+  a) Uma função que faça a leitura dos dados de uma lista para armazenar notas de alunos, sendo a lista e seu tamanho como parâmetros.
+  
+  b) Uma função que calcule e retorne a média da lista de notas, sendo a lista e seu tamanho como parâmetros.
+  
+  c) Uma função que gere e retorne uma nova lista, cujas notas devem estar acima de 7,0. A nova lista deve ser gerada a partir da lista original, a qual deve ser declarada como parâmetro, juntamente com o seu tamanho.
+
+3) Escreva um programa em Python (estrutura “main”) que contenha as seguintes funções:
+
+  a) Uma função para carregar uma lista com 10 palavras digitadas pelo usuário, sendo a lista como parâmetro;
+  
+  b) Uma função que percorra esta lista e conte e retorne quantas dessas palavras são palíndromas
